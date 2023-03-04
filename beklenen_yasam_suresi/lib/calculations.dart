@@ -6,7 +6,7 @@ class Calculations {
 
   double? calculation() {
     double result;
-    result = 90 + _userData.yapilanSpor - _userData.icilenSigara;
+    result = 70 + _userData.yapilanSpor - _userData.icilenSigara;
     result+= (_userData.boy/_userData.kilo);
     
    /* if(_userData.seciliCinsiyet=='KADIN'){
