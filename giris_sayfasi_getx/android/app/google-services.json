@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374092817378",
+    "project_id": "giris-sayfasi-get-x",
+    "storage_bucket": "giris-sayfasi-get-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374092817378:android:076ec1270a49ee75974fbb",
+        "android_client_info": {
+          "package_name": "com.example.giris_sayfasi_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374092817378-16dn9u6v324r4qro3eale7fcfjphuruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyDpSe5JGhe1ilNFNGLK1NiqkYwTNfMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374092817378-16dn9u6v324r4qro3eale7fcfjphuruq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
