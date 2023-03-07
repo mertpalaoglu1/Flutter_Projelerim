@@ -8,8 +8,7 @@ class GirisSayfasi extends StatefulWidget {
   @override
   State<GirisSayfasi> createState() => _GirisSayfasiState();
 }
-///giriş yapma özelliği eklenecek.
-///controller eklenecek.
+
 class _GirisSayfasiState extends State<GirisSayfasi> {
   @override
   Widget build(BuildContext context) {
